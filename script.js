@@ -3,7 +3,7 @@ const swiper = new Swiper(".swiper", {});
 
 // VARIABLES
 // API Key
-const API_KEY = 'vRgpxNRNKxyIlc1sk9lEifd6kDJZDK57';
+const API_KEY = '8PyPY3yrCnVoeNM1vlmiEmqsCZOVriAk';
 
 // Go fetch Giphy API data
     fetch(`https://api.giphy.com/v1/gifs/trending?api_key=${8PyPY3yrCnVoeNM1vlmiEmqsCZOVriAk}&limit=50`)
